@@ -1,0 +1,35 @@
+html{
+  /* background-color: black; */
+  background-image: url('flyingHIgh.jpg');
+  background-size: cover;
+}
+
+h1{
+  color: blue;
+  font-style: italic;
+  font-weight: lighter;
+  font-family: georgia cursive;
+}
+
+body{
+  color: blue;
+  font-style: italic;
+  font-weight: lighter;
+  font-family: times cursive;
+}
+
+ol{
+display: none;
+}
+
+button, input{
+  background-color: white;
+  border-color: black;
+  color: black;
+}
+
+button:hover, input:hover{
+  font-weight: bold;
+  color: blue;
+  background-color: black;
+}
